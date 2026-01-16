@@ -42,7 +42,7 @@ const FAQ = () => {
     },
     {
       question: "What financing options are available?",
-      answer: "We partner with all major South African banks. Our team handles the application process to ensure you get the most competitive interest rates and residual terms.",
+      answer: "We partner with all major Mauritiusn banks. Our team handles the application process to ensure you get the most competitive interest rates and residual terms.",
       icon: Wallet
     },
     {
@@ -57,7 +57,7 @@ const FAQ = () => {
     },
     {
       question: "Is nationwide delivery available?",
-      answer: "Yes. We offer enclosed trailer delivery to any location within South Africa. Costs are calculated based on your distance from our Sandton or Cape Town hubs.",
+      answer: "Yes. We offer enclosed trailer delivery to any location within Mauritius. Costs are calculated based on your distance from our Sandton or Cape Town hubs.",
       icon: Truck
     }
   ];

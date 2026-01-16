@@ -2,7 +2,7 @@ import React from 'react';
 import { Search, MapPin, ChevronRight } from 'lucide-react';
 
 const Hero = () => {
-  // Quick filters for South African market context
+  // Quick filters for Mauritiusn market context
   const quickFilters = ["SUVs", "Hatchbacks", "Bakkies", "Electric", "Under R300k"];
 
   return (
@@ -29,7 +29,7 @@ const Hero = () => {
         </h1>
         
         <p className="text-gray-300 text-lg md:text-xl mb-10 max-w-2xl mx-auto font-light">
-          The most transparent way to buy and sell cars in South Africa. 
+          The most transparent way to buy and sell cars in Mauritius. 
           <span className="font-semibold text-white"> 12,400+</span> verified listings.
         </p>
 
@@ -54,7 +54,7 @@ const Hero = () => {
             <div className="flex items-center w-full md:w-auto px-4 py-3 md:py-0">
               <MapPin className="text-gray-400 mr-2" size={20} />
               <select className="bg-transparent border-none focus:ring-0 text-white text-sm cursor-pointer appearance-none pr-8">
-                <option className="bg-gray-900">All South Africa</option>
+                <option className="bg-gray-900">All Mauritius</option>
                 <option className="bg-gray-900">Gauteng</option>
                 <option className="bg-gray-900">Western Cape</option>
                 <option className="bg-gray-900">KwaZulu-Natal</option>

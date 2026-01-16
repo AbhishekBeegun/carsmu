@@ -123,7 +123,7 @@ const GlobalNav = () => {
             <div className="flex justify-center gap-8 text-gray-500 text-[10px] font-bold uppercase tracking-widest">
               <span>Privacy</span>
               <span>Terms</span>
-              <span>South Africa</span>
+              <span>Mauritius</span>
             </div>
           </div>
         </div>

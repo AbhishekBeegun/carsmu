@@ -123,7 +123,7 @@ const VehicleDetailPage = () => {
               <p className="text-gray-400 leading-relaxed text-base font-medium">
                 The 2026 Chery Tiggo Cross 1.5T Elite marks a significant leap in urban SUV design. 
                 Blending a high-tech DCT transmission with a punchy turbocharged power plant, this 
-                model offers a sophisticated drive for the South African landscape. The Elite 
+                model offers a sophisticated drive for the Mauritiusn landscape. The Elite 
                 trim emphasizes digital luxury, featuring the latest Chery Intelligent Cockpit, 
                 dual 10.25-inch screens, and a suite of advanced safety features.
               </p>

@@ -17,7 +17,7 @@ const Newsletter = () => {
           The <span className="text-blue-500">Inside</span> Track.
         </h2>
         <p className="text-gray-400 text-lg mb-10 max-w-xl mx-auto font-medium leading-relaxed">
-          Be the first to know about price drops, rare finds, and South Africa's latest automotive trends.
+          Be the first to know about price drops, rare finds, and Mauritius's latest automotive trends.
         </p>
 
         {/* 2. Glass Newsletter Form */}

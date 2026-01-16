@@ -24,7 +24,7 @@ const Footer = () => {
                   CARS<span className="text-blue-500">.MU</span>
                 </h2>
                 <p className="text-gray-400 text-sm mt-4 leading-relaxed font-medium">
-                  The future of automotive retail in South Africa. <br/>
+                  The future of automotive retail in Mauritius. <br/>
                   <span className="text-white/60">Crafted for the driven.</span>
                 </p>
               </div>

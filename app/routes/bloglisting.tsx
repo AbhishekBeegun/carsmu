@@ -16,7 +16,7 @@ const BlogListing = () => {
       img: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=800" 
     },
     { 
-      title: "Electric vs Hybrid: What Works for South Africa?", 
+      title: "Electric vs Hybrid: What Works for Mauritius?", 
       cat: "Tech", 
       date: "6 Min Read", 
       img: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&q=80&w=800" 

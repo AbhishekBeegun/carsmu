@@ -21,7 +21,7 @@ const HandpickedGrid = () => {
   {
     id: "ad-1", // This is our Ad Slot
     type: "brand_feature",
-    brand: "BMW South Africa",
+    brand: "BMW Mauritius",
     title: "The Future is Electric",
     description: "Experience the new iX range at our Cape Town launch event.",
     image: "https://images.unsplash.com/photo-1555215695-3004980ad54e?q=80&w=800",

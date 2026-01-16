@@ -67,7 +67,7 @@ const Navbar = () => {
       </nav>
 
       {/* Mobile Bottom Navigation (App-style) */}
-      <div className="hidden fixed bottom-0 left-0 right-0 bg-white border-t border-gray-100 px-6 py-3 flex justify-between items-center z-50 ">
+      <div className="fixed lg:hidden bottom-0 left-0 right-0 bg-white border-t border-gray-100 px-6 py-3 flex justify-between items-center z-50 ">
         {navLinks.map((link) => (
           <NavLink key={link.name} to={link.path} className="flex flex-col items-center text-gray-400">
             {link.icon}

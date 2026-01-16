@@ -24,7 +24,7 @@ const FinanceProtocolPage = () => {
           </h1>
           <p className="max-w-2xl mx-auto text-gray-400 text-sm md:text-base font-medium leading-relaxed">
             Proprietary lending structures designed for maximum liquidity. 
-            We secure competitive prime-linked rates through a centralized panel of Tier-1 South African banks.
+            We secure competitive prime-linked rates through a centralized panel of Tier-1 Mauritiusn banks.
           </p>
         </div>
       </section>
