@@ -7,8 +7,8 @@ const Navbar = () => {
 
   const navLinks = [
     { name: 'Browse', path: '/listing', icon: <Car size={20} /> },
-    { name: 'Brands', path: '/brands', icon: <Star size={20} /> },
-    { name: 'Blog', path: '/blog', icon: <BookOpen size={20} /> },
+    { name: 'Brands', path: '/ourpartners', icon: <Star size={20} /> },
+    { name: 'Blogs', path: '/blogs', icon: <BookOpen size={20} /> },
   ];
 
   return (
